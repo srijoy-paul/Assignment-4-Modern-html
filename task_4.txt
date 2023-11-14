@@ -1,0 +1,10 @@
+By implementing these in our web applications can improve the accessibility of HTML: 
+
+1. Screen Readers: These are software applications that interpret and read aloud the content displayed on a computer screen. Web developers need to ensure that their websites are compatible with screen readers, making content understandable through audio cues.
+
+2. Alt text for images: All non-text content, such as images, should have descriptive alternative text (alt attribute) to provide information to users who cannot see the visual content. This is crucial for those using screen readers or experiencing slow internet connections where images may not load.
+
+3. Responsive designs: Create responsive designs that work well on various devices and screen sizes. Additionally, ensure that users can zoom in on content without losing functionality or readability.
+
+4. Accessible Forms: Designing forms with clear labels, provide instructions, and ensure that error messages are presented in an accessible manner. This benefits users who may have difficulty perceiving or interacting with form elements.
+etc. 

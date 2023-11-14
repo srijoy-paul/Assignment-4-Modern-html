@@ -1,0 +1,10 @@
+Accessibility in the context of web development refers to the inclusive practice of designing and building websites and web applications that can be accessed and used by people of all abilities and disabilities. The goal of web accessibility is to ensure that everyone, including those with disabilities, can perceive, understand, navigate, and interact with the web content effectively.
+1. Screen Readers
+2. Alt text for images
+3. Color Contrast
+4. Responsive designs
+5. Accessible Forms
+etc. 
+
+
+Creating accessible websites is essential and vital for inclusive online experiences. It ensures all users, including those with disabilities, can access information, aligns with legal requirements, expands the audience by accommodating diverse abilities, improves SEO, enhances overall user experience, and caters to mobile and aging populations. Additionally, it contributes to a positive business reputation, reflects social responsibility, and prevents future expenses by investing in accessibility from the start.

@@ -1,0 +1,9 @@
+HTML entities are special codes or character references used in HTML to represent characters that have a specific meaning or are reserved for HTML markup, and are not usually present on keyboards. They are particularly useful to display characters that might otherwise be interpreted as part of the HTML code.
+
+Five commonly used HTML entities:
+1. &lt : '<'
+2. &gt : '>'
+3. &amp : '&'
+4. &copy : '©'
+5. &quot : " (double quotation)
+5. &apos : ' (double quotation)

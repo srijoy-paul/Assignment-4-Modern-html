@@ -1,0 +1,15 @@
+HTML 5 is the fifth and latest version of HyperText markup language, It offers several features, some of them are:
+
+1. Semantics : It introduces new semantic elements like <header>, <main>, <footer>, <article>, <section>, <nav>, etc. makes easier to structure by providing a meaning for different parts of web page.
+
+2. Multimedia: It introduces tags like <audio> and <video> and various attributes to make it more customizable and to directly using media in our pages.
+
+3. Canvas: It introduces <canvas> which provides a 2d drawing space. Using this we can create graphics and animations directly within the browser.
+
+4. Scalability and Adaptability: It can work well with variety of devices from desktops to phones. It can adapt to different screen sizes.
+
+5. Local storage: It alows to store data locally on the user's device for more efficient and faster access.
+
+6. Geolocation API: It is used to access location based services and applications.
+
+There are many more features, but these are the major ones.
